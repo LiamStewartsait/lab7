@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ljste\\Documents\\oop\\lab7\\TestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E92C9DD-8C40-4556-A889-E8B766D0FAF1}|TestProject1\\TestProject1.csproj|c:\\users\\ljste\\documents\\oop\\lab7\\testproject1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E92C9DD-8C40-4556-A889-E8B766D0FAF1}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE13172B-932B-4CBB-AE12-01523DD08026}|..\\BasicMath\\BasicMath\\BasicMath.csproj|c:\\users\\ljste\\documents\\oop\\lab7\\basicmath\\basicmath\\basicmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicMath.cs",
+              "DocumentMoniker": "C:\\Users\\ljste\\Documents\\oop\\lab7\\BasicMath\\BasicMath\\BasicMath.cs",
+              "RelativeDocumentMoniker": "..\\BasicMath\\BasicMath\\BasicMath.cs",
+              "ToolTip": "C:\\Users\\ljste\\Documents\\oop\\lab7\\BasicMath\\BasicMath\\BasicMath.cs",
+              "RelativeToolTip": "..\\BasicMath\\BasicMath\\BasicMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:42:33.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ljste\\Documents\\oop\\lab7\\TestProject1\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ljste\\Documents\\oop\\lab7\\TestProject1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:19:48.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

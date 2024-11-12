@@ -1,0 +1,7 @@
+C:\Users\ljste\Documents\oop\lab7\BasicMath\BasicMath\bin\Debug\BasicMath.exe.config
+C:\Users\ljste\Documents\oop\lab7\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+C:\Users\ljste\Documents\oop\lab7\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+C:\Users\ljste\Documents\oop\lab7\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.AssemblyReference.cache
+C:\Users\ljste\Documents\oop\lab7\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\ljste\Documents\oop\lab7\BasicMath\BasicMath\obj\Debug\BasicMath.exe
+C:\Users\ljste\Documents\oop\lab7\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
